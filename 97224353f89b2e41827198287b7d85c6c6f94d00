@@ -1,0 +1,1 @@
+{"jobID":"2c34d1ad-5ee5-b844-90aa-cbace2c3d3e0","spec":{"type":"policy","cause":{"Message":"","User":"Sean \u003cyusong905@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
