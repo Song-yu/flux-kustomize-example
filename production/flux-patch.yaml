@@ -6,7 +6,7 @@ metadata:
     flux.weave.works/locked: "true"
     flux.weave.works/locked_msg: Lock deployment in production
     flux.weave.works/locked_user: Alfonso Acosta <fons@syntacticsugar.consulting>
-    fluxcd.io/tag.init: glob:1.4.4
-    fluxcd.io/tag.podinfod: glob:1.4.4
+    fluxcd.io/tag.init: glob:4.0.0
+    fluxcd.io/tag.podinfod: glob:4.0.0
   name: podinfo
   namespace: demo
